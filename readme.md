@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/gh/thatbeautifuldream/resume-to-pdf@main/dist/Milind_Mi
 https://cdn.jsdelivr.net/gh/thatbeautifuldream/resume-to-pdf@main/dist/Milind_Mishra_Full_Resume_2025.pdf
 ```
 
-## 🔧 Configuration
+## Configuration
 
 The script fetches resume data from:
 
