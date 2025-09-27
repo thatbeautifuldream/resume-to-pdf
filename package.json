@@ -1,0 +1,17 @@
+{
+  "name": "resume-to-pdf",
+  "version": "1.0.0",
+  "description": "Print resume to PDF using Puppeteer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "print": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "puppeteer": "^24.22.3"
+  }
+}
